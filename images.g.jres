@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgZmYAAAAAAGbxZgZgZmYAZv9mBmZmAGBmZmZmZmZmZmZm9mZmZgAAZmZmZmZmZmZm8WYGZmYAYGb/ZgZgZmYAYGZmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "alien"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAJkAAAAAAACQlgkAAAAAAJlpmQAAAACQmZlmCQAAAJCZmZmWAAAAkJmZmZkJAACQmZaZmZYAAJCZaZaZaQkAkJmZaZmWBgCQmZmZmZkAAJCZmZlpCQAAkJmZaZYAAACQmWmWCQAAAACZaZkAAAAAAJCZCQAAAAAAAJkAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "diamond"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
